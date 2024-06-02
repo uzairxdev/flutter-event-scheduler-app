@@ -17,7 +17,16 @@ You can see the UI in action by watching the demo video above.
 
 ## Getting Started
 
-## Repository Structure
+### Prerequisites
+
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/uzairxdev/flutter-event-scheduler-app.git
+   cd event_scheduler_ui
 
 event_scheduler_ui/
 ├── android/                       # Android specific files
@@ -35,17 +44,6 @@ event_scheduler_ui/
 ├── test/                          # Test files
 ├── pubspec.yaml                   # Project configuration file
 └── README.md                      # Project README file
-
-### Prerequisites
-
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/uzairxdev/flutter-event-scheduler-app.git
-   cd event_scheduler_ui
 
 
 
