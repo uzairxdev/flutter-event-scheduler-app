@@ -11,7 +11,7 @@ A sleek and intuitive Flutter UI for scheduling and discovering events. This pro
 
 ## Demo
 
-[![Watch the video](https://github.com/uzairxdev/flutter-event-scheduler-app/assets/117645470/225b59a8-e3e2-4061-bcfa-3d84177dc5ff)
+https://github.com/uzairxdev/flutter-event-scheduler-app/assets/117645470/225b59a8-e3e2-4061-bcfa-3d84177dc5ff
 
 You can see the UI in action by watching the demo video above.
 
