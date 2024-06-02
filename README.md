@@ -27,14 +27,6 @@ You can see the UI in action by watching the demo video above.
    ```sh
    git clone https://github.com/uzairxdev/flutter-event-scheduler-app.git
    cd event_scheduler_ui
-   
-├── lib/                           # Main source code directory
-│   ├── controllers/               # Controller files for state management
-│   │   └── choose_event_controller.dart
-│   ├── pages/                     # UI pages
-│   │   ├── home_page.dart
-│   │   └── choose_event_page.dart
-│   ├── main.dart                  # Entry point of the application
 
 
 
